@@ -1,0 +1,165 @@
+The results of map capsuleClassic with MinimaxAgent implementation. 
+==================================================== 
+Average Score: -598.0
+Scores: [-598.0]
+Win Rate: 0.0 Win 0 / 1
+The results of map capsuleClassic with AlphaBetaAgent implementation.
+==================================================== 
+Average Score: -637.0
+Scores: [-637.0]
+Win Rate: 0.0 Win 0 / 1
+The results of map capsuleClassic with ExpectimaxAgent implementation.
+==================================================== 
+Average Score: -387.0
+Scores: [-387.0]
+Win Rate: 0.0 Win 0 / 1
+The results of map contestClassic with MinimaxAgent implementation. 
+==================================================== 
+Average Score: -348.0
+Scores: [-348.0]
+Win Rate: 0.0 Win 0 / 1
+The results of map contestClassic with AlphaBetaAgent implementation.
+==================================================== 
+Average Score: -337.0
+Scores: [-337.0]
+Win Rate: 0.0 Win 0 / 1
+The results of map contestClassic with ExpectimaxAgent implementation.
+==================================================== 
+Average Score: -393.0
+Scores: [-393.0]
+Win Rate: 0.0 Win 0 / 1
+The results of map mediumClassic with MinimaxAgent implementation. 
+==================================================== 
+Average Score: -501.0
+Scores: [-501.0]
+Win Rate: 0.0 Win 0 / 1
+The results of map mediumClassic with AlphaBetaAgent implementation. 
+==================================================== 
+Average Score: -414.0
+Scores: [-414.0]
+Win Rate: 0.0 Win 0 / 1
+The results of map mediumClassic with ExpectimaxAgent implementation.
+==================================================== 
+Average Score: -401.0
+Scores: [-401.0]
+Win Rate: 0.0 Win 0 / 1
+The results of map minimaxClassic with MinimaxAgent implementation. 
+==================================================== 
+Average Score: 516.0
+Scores: [516.0]
+Win Rate: 1.0 Win 1 / 1
+The results of map minimaxClassic with AlphaBetaAgent implementation. 
+==================================================== 
+Average Score: -496.0
+Scores: [-496.0]
+Win Rate: 0.0 Win 0 / 1
+The results of map minimaxClassic with ExpectimaxAgent implementation. 
+==================================================== 
+Average Score: 515.0
+Scores: [515.0]
+Win Rate: 1.0 Win 1 / 1
+The results of map openClassic with MinimaxAgent implementation.
+==================================================== 
+Average Score: 1440.0
+Scores: [1440.0]
+Win Rate: 1.0 Win 1 / 1 
+The results of map openClassic with AlphaBetaAgent implementation.
+==================================================== 
+Average Score: 1240.0
+Scores: [1240.0]
+Win Rate: 1.0 Win 1 / 1 
+The results of map openClassic with ExpectimaxAgent implementation.
+==================================================== 
+Average Score: 1360.0
+Scores: [1360.0]
+Win Rate: 1.0 Win 1 / 1 
+The results of map originalClassic with MinimaxAgent implementation. 
+==================================================== 
+Average Score: -407.0
+Scores: [-407.0]
+Win Rate: 0.0 Win 0 / 1
+The results of map originalClassic with AlphaBetaAgent implementation.
+==================================================== 
+Average Score: -460.0
+Scores: [-460.0]
+Win Rate: 0.0 Win 0 / 1
+The results of map originalClassic with ExpectimaxAgent implementation.
+==================================================== 
+Average Score: 53.0
+Scores: [53.0]
+Win Rate: 0.0 Win 0 / 1
+The results of map powerClassic with MinimaxAgent implementation.
+==================================================== 
+Average Score: 1568.0
+Scores: [1568.0]
+Win Rate: 0.0 Win 0 / 1 
+The results of map powerClassic with AlphaBetaAgent implementation. 
+==================================================== 
+Average Score: 226.0
+Scores: [226.0]
+Win Rate: 0.0 Win 0 / 1
+The results of map powerClassic with ExpectimaxAgent implementation. 
+==================================================== 
+Average Score: -447.0
+Scores: [-447.0]
+Win Rate: 0.0 Win 0 / 1
+The results of map smallClassic with MinimaxAgent implementation.
+==================================================== 
+Average Score: -340.0
+Scores: [-340.0]
+Win Rate: 0.0 Win 0 / 1
+The results of map smallClassic with AlphaBetaAgent implementation.
+==================================================== 
+Average Score: -301.0
+Scores: [-301.0]
+Win Rate: 0.0 Win 0 / 1
+The results of map smallClassic with ExpectimaxAgent implementation.
+==================================================== 
+Average Score: -445.0
+Scores: [-445.0]
+Win Rate: 0.0 Win 0 / 1 
+The results of map testClassic with MinimaxAgent implementation.
+==================================================== 
+Average Score: 564.0
+Scores: [564.0]
+Win Rate: 1.0 Win 1 / 1 
+The results of map testClassic with AlphaBetaAgent implementation.
+==================================================== 
+Average Score: 564.0
+Scores: [564.0]
+Win Rate: 1.0 Win 1 / 1 
+The results of map testClassic with ExpectimaxAgent implementation.
+==================================================== 
+Average Score: 564.0
+Scores: [564.0]
+Win Rate: 1.0 Win 1 / 1
+The results of map trappedClassic with MinimaxAgent implementation. 
+==================================================== 
+Average Score: -502.0
+Scores: [-502.0]
+Win Rate: 0.0 Win 0 / 1
+The results of map trappedClassic with AlphaBetaAgent implementation.
+==================================================== 
+Average Score: 532.0
+Scores: [532.0]
+Win Rate: 1.0 Win 1 / 1 
+The results of map trappedClassic with ExpectimaxAgent implementation. 
+==================================================== 
+Average Score: -502.0
+Scores: [-502.0]
+Win Rate: 0.0 Win 0 / 1
+The results of map trickyClassic with MinimaxAgent implementation.
+==================================================== 
+Average Score: -365.0
+Scores: [-365.0]
+Win Rate: 0.0 Win 0 / 1 
+The results of map trickyClassic with AlphaBetaAgent implementation. 
+==================================================== 
+Average Score: -403.0
+Scores: [-403.0]
+Win Rate: 0.0 Win 0 / 1
+The results of map trickyClassic with ExpectimaxAgent implementation.
+==================================================== 
+Average Score: -329.0
+Scores: [-329.0]
+Win Rate: 0.0 Win 0 / 1
